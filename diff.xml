@@ -5,9 +5,6 @@
   </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
-      <entry key="CommitDialog">
-        <PlaceSettings />
-      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
@@ -28,7 +25,7 @@
     </option>
   </component>
   <component name="ExternalDiffSettings">
-    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_ENABLED" value="false" />
     <option name="DIFF_DEFAULT" value="false" />
     <option name="DIFF_EXE_PATH" value="/Applications/Kaleidoscope.app" />
     <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
@@ -38,25 +35,12 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
         </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
       </entry>
     </option>
   </component>
