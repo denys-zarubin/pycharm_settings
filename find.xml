@@ -21,6 +21,18 @@
       <mask>factorie</mask>
       <mask>factories</mask>
       <mask>factories*</mask>
+      <mask>se</mask>
+      <mask>set</mask>
+      <mask>setti</mask>
+      <mask>settings.</mask>
+      <mask>settings</mask>
+      <mask>b</mask>
+      <mask>ba</mask>
+      <mask>bas</mask>
+      <mask>base</mask>
+      <mask>base.</mask>
+      <mask>base.p</mask>
+      <mask>base.py</mask>
     </recentFileMasks>
   </component>
 </application>
