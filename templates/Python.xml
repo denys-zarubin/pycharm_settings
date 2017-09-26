@@ -190,4 +190,10 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="debug" value="print('*'*20)&#10;print($value$, '$value$')&#10;print('*'*10)&#10;$END$&#10;" description="Print extender" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
