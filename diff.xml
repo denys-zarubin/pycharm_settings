@@ -1,4 +1,8 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
+    <filesTool value="/Applications/Kaleidoscope.app" newValue="/Applications/Kaleidoscope.app" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
