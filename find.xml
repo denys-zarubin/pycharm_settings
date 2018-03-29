@@ -2,39 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>forms.py</mask>
-      <mask>*.py</mask>
-      <mask>*.html</mask>
-      <mask>facto</mask>
-      <mask>factor</mask>
-      <mask>factori</mask>
-      <mask>factorie</mask>
-      <mask>factories</mask>
-      <mask>factories*</mask>
-      <mask>se</mask>
-      <mask>set</mask>
-      <mask>setti</mask>
-      <mask>settings.</mask>
-      <mask>settings</mask>
-      <mask>b</mask>
-      <mask>ba</mask>
-      <mask>bas</mask>
-      <mask>base</mask>
-      <mask>base.</mask>
-      <mask>base.p</mask>
-      <mask>base.py</mask>
-    </recentFileMasks>
   </component>
 </application>
