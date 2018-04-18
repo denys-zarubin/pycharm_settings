@@ -4,7 +4,7 @@
     <property name="created">2017-01-04T14:07:46</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-12-08T11:14:25</property>
+    <property name="modified">2018-04-18T10:15:46</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -18,7 +18,6 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ffe42a" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -123,6 +122,11 @@
     <option name="BNF_NUMBER">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
