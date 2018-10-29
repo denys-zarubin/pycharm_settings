@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/roles/webserver/tasks/main.yml" timestamp="1540812947325" />
       <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/roles/common/defaults/main.yml" timestamp="1540803513900" />
       <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/updateadmins.yml" timestamp="1540802570678">
         <mark key="[" line="3" column="1" />
@@ -10,11 +11,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" timestamp="1540809183496">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" timestamp="1540812315527">
+        <mark key="[" line="12" column="70" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/src/vilmate/src/wdht.com/kong/tasks.py" timestamp="1540807946484" />
       <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/requirements.txt" timestamp="1540811029931">
@@ -23,6 +24,8 @@
         <mark key="^" line="46" column="78" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/env_vars/production.yml" timestamp="1540812393762" />
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/provision.yml" timestamp="1540812376841" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" />
@@ -30,34 +33,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">LWUgZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9GdW5kZWRieW1lL2RqcHJlc3NvckB1cGRhdGUtZGphbmdvLTEuMTEjZWdnPWRqcHJlc3Nvcgo=</text>
+        <text encoding="base64">UlVOIHBpcCAtVgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LWUgZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9GdW5kZWRieW1lL2RqcHJlc3NvckB1cGRhdGUtZGphbmdvLTEuMTEjZWdnPWRqcHJlc3Nvcgo=</text>
+        <text encoding="base64">UlVOIHBpcCAtVgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0taGVscAo=</text>
+        <text encoding="base64">LWUgZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9GdW5kZWRieW1lL2RqcHJlc3NvckB1cGRhdGUtZGphbmdvLTEuMTEjZWdnPWRqcHJlc3Nvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I1JVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmtlaXRody9tb3NoCg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0taGVscAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCBtb3NoIGN1cmwgbHNvZiBcCg==</text>
+        <text encoding="base64">I1JVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmtlaXRody9tb3NoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZC1taW1lLWluZm8K</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCBtb3NoIGN1cmwgbHNvZiBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbi1jZmZpIGxpYmNhaXJvMiBsaWJwYW5nbzEuMC0wIGxpYmdkay1waXhidWYyLjAtMCBsaWJmZmktZGV2IFwK</text>
+        <text encoding="base64">ICAgIHNoYXJlZC1taW1lLWluZm8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxpYnhzbHQxLWRldiBsaWJvcGVuanBlZy1kZXYgbGlianBlZzYyIGxpYmpwZWc2Mi1kZXYgemxpYjFnLWRldiBcCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbi1jZmZpIGxpYmNhaXJvMiBsaWJwYW5nbzEuMC0wIGxpYmdkay1waXhidWYyLjAtMCBsaWJmZmktZGV2IFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc3RncmVzcWwtY29tbW9uIHB5dGhvbi1kZXYgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24gbGlieG1sMi1kZXYgXAo=</text>
+        <text encoding="base64">ICAgIGxpYnhzbHQxLWRldiBsaWJvcGVuanBlZy1kZXYgbGlianBlZzYyIGxpYmpwZWc2Mi1kZXYgemxpYjFnLWRldiBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5dGhvbi1hcHQgcHl0aG9uLXBpcCBweXRob24tc29mdHdhcmUtcHJvcGVydGllcyBsaWJwcS1kZXYgXAo=</text>
+        <text encoding="base64">ICAgIHBvc3RncmVzcWwtY29tbW9uIHB5dGhvbi1kZXYgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24gbGlieG1sMi1kZXYgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
