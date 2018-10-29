@@ -2,14 +2,75 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/roles/common/defaults/main.yml" timestamp="1540803513900" />
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/ansible/updateadmins.yml" timestamp="1540802570678">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" timestamp="1540804503896">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/code/src/vilmate/src/fundedbyme.com/fundedbyme/Dockerfile" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">I1JVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmtlaXRody9tb3NoCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I1JVTiBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOmtlaXRody9tb3NoCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCBtb3NoIGN1cmwgbHNvZiBcCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNoYXJlZC1taW1lLWluZm8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbi1jZmZpIGxpYmNhaXJvMiBsaWJwYW5nbzEuMC0wIGxpYmdkay1waXhidWYyLjAtMCBsaWJmZmktZGV2IFwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxpYnhzbHQxLWRldiBsaWJvcGVuanBlZy1kZXYgbGlianBlZzYyIGxpYmpwZWc2Mi1kZXYgemxpYjFnLWRldiBcCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvc3RncmVzcWwtY29tbW9uIHB5dGhvbi1kZXYgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24gbGlieG1sMi1kZXYgXAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB5dGhvbi1hcHQgcHl0aG9uLXBpcCBweXRob24tc29mdHdhcmUtcHJvcGVydGllcyBsaWJwcS1kZXYgXAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCBtb3NoIGN1cmwgbHNvZiBcCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">UlVOIGdpdAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Y2xzb2Yg</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
