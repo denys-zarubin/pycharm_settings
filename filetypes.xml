@@ -8,6 +8,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".pwds" type="PLAIN_TEXT" />
       <mapping pattern="dgasgdas" type="PLAIN_TEXT" />
+      <mapping pattern="repos" type="PLAIN_TEXT" />
       <mapping pattern="env_file" type="PLAIN_TEXT" />
       <mapping pattern="gfdag" type="PLAIN_TEXT" />
       <mapping pattern="nginx_dockerfile" type="PLAIN_TEXT" />
